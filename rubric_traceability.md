@@ -3,7 +3,7 @@
 | Criterion | Where it is addressed | Status |
 |---|---|---|
 | State of the art and comparison between related works (9 points) | Section 3 and Table 1; supporting details in `literature_matrix.csv` | Drafted |
-| Results and documentation stored in an online repository (3 points) | Report PDF and source materials are stored in the private GitHub repository; README explains its scope | Repository link must still be included with the course submission |
+| Results and documentation stored in an online repository (3 points) | Report PDF and source materials are stored in the private GitHub repository; the report includes its URL | Grant the instructor access and submit the report with its repository link |
 | Mathematical equations, formulations, and functions (2 points) | Section 5, Equation 1, rating scales, and risk bands | Drafted; the model is explicitly identified as a project heuristic |
 | Introduction through conclusions and future work (2 points) | Sections 1 through 7 | Drafted |
 | Tables and figures (1 point) | Lab-boundary diagram and assessment, risk, and related-work tables | Drafted |

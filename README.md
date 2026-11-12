@@ -38,8 +38,8 @@ When the approved practical lab work is performed, add the actual service invent
 
 ## Online repository
 
-The rubric asks for results and documentation in an online repository. This private GitHub repository stores the Part 1 report PDF, LaTeX source, bibliography, literature matrix, and rubric mapping. The repository link should be included with the course submission as required. This means storing project files in a repository, not deploying a website or using GitHub Pages.
+The Part 1 report and supporting documentation are stored in this private GitHub repository: https://github.com/gosi-dev/lucid-jungles-bazaar-security-assessment. The report includes this link because the Moodle submission form has no text field. The repository copy omits group members' names and student numbers.
 
-A private repository shared with the group and instructor is preferable if permitted by the course. Do not publish credentials, genuine personal data, unredacted scan output, or private network details.
+The instructor must be granted access to the private repository for review. Do not publish credentials, genuine personal data, unredacted scan output, or private network details.
 
 No practical scan results are included because the lab assessment has not yet been performed. When the approved practical lab work is performed, add the actual service inventory, tool versions and settings, carefully redacted evidence, validated findings, risk register, mitigations, and retest results. Keep the target isolated and use synthetic data only.
