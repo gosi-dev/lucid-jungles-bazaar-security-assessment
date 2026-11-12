@@ -2,7 +2,7 @@
 
 This repository contains the LaTeX source and supporting material for the theoretical part of the group project. The report treats Metasploitable 2 as an isolated training target representing a small hypothetical legacy-service pilot associated with Lucid Jungles' Bazaar. It does not claim that a real city service was tested.
 
-This repository copy omits group members' names and student numbers. Use the separately retained, identified submission copy for the course submission; this sanitized repository copy is for project documentation and source.
+This repository copy omits group members' names and student numbers. 
 
 ## Files
 
