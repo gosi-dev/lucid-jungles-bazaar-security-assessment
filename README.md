@@ -34,12 +34,10 @@ pdflatex report.tex
 
 This Part 1 package stores the report, its source, research comparison, bibliography, and rubric mapping. It contains no completed practical scan results. No scan, vulnerability validation, exploit test, or mitigation retest is represented as completed.
 
-When the approved practical lab work is performed, add the actual service inventory, tool versions and settings, carefully redacted evidence, validated findings, risk register, mitigations, and retest results. Keep the target isolated and use synthetic data only.
+When the approved practical lab work is performed, we’ll add the actual service inventory, tool versions and settings, carefully redacted evidence, validated findings, risk register, mitigations, and retest results. Keep the target isolated and use synthetic data only.
 
 ## Online repository
 
-The rubric asks for results and documentation in an online repository. This private GitHub repository stores the Part 1 report PDF, LaTeX source, bibliography, literature matrix, and rubric mapping. The repository link should be included with the course submission as required. This means storing project files in a repository, not deploying a website or using GitHub Pages.
+The rubric asks for results and documentation in an online repository. This private GitHub repository stores the Part 1 report PDF, LaTeX source, bibliography, literature matrix, and rubric mapping. 
 
-A private repository shared with the group and instructor is preferable if permitted by the course. Do not publish credentials, genuine personal data, unredacted scan output, or private network details.
-
-No practical scan results are included because the lab assessment has not yet been performed. When the approved practical lab work is performed, add the actual service inventory, tool versions and settings, carefully redacted evidence, validated findings, risk register, mitigations, and retest results. Keep the target isolated and use synthetic data only.
+No practical scan results are included because the lab assessment has not yet been performed. When the approved practical lab work is performed, we’ll add the actual service inventory, tool versions and settings, carefully redacted evidence, validated findings, risk register, mitigations, and retest results. We kept the target isolated and use synthetic data only.
